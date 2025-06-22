@@ -19,7 +19,7 @@ namespace SignalR.Server
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
+            //app.UseAuthorization();
 
 
             app.MapControllers();
