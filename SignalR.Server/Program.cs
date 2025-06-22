@@ -21,6 +21,7 @@ namespace SignalR.Server
 
             //app.UseAuthorization();
 
+            //hello
 
             app.MapControllers();
 
